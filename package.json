@@ -16,7 +16,7 @@
     "body-parser": "^1.14.2",
     "cheerio": "^0.19.0",
     "clockwork": "^0.1.0",
-    "compression": "^1.6.0",
+    "compression": "^1.6.1",
     "connect-assets": "^5.0.1",
     "connect-mongo": "^1.1.0",
     "cookie-parser": "^1.4.0",
