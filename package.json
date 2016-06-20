@@ -18,7 +18,7 @@
     "clockwork": "^0.1.0",
     "compression": "^1.6.0",
     "connect-assets": "^5.0.1",
-    "connect-mongo": "^1.1.0",
+    "connect-mongo": "^1.2.1",
     "cookie-parser": "^1.4.0",
     "errorhandler": "^1.4.2",
     "express": "^4.13.3",
